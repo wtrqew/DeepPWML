@@ -2,7 +2,7 @@
 
 This repository provides the code for our MICCAI2023 paper "Punctate White Matter Lesion Segmentation in Preterm Infants Powered by Counterfactually Generative Learning".
 
-We release our code in both TensorFlow and translated PyTorch (will be post later) versions of network. The code is based on [https://github.com/RicardoZiTseng/3D-MASNet](https://github.com/RicardoZiTseng/3D-MASNet).
+We release our code in TensorFlow. The code is based on [https://github.com/RicardoZiTseng/3D-MASNet](https://github.com/RicardoZiTseng/3D-MASNet).
 
 ## Contents
 - [DeepPWML](#deeppwml)
